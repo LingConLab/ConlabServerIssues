@@ -7,4 +7,4 @@ assignees: leramorozova
 
 ---
 
-List your packages, their versions (otherwise latest will be installed) and  any other useful inforrmation for the installer:
+List your packages, their versions (otherwise latest will be installed) and  any other useful information for the installer:
