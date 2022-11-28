@@ -3,7 +3,7 @@ name: Software installation
 about: Application for a software installation
 title: ''
 labels: install_software
-assignees: leramorozova
+assignees: kirillkoncha
 
 ---
 
