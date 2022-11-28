@@ -3,7 +3,7 @@ name: User creation
 about: Application for user creation
 title: ''
 labels: add_user
-assignees: leramorozova
+assignees: kirillkoncha
 
 ---
 
