@@ -3,7 +3,7 @@ name: Project publication
 about: Application for a project publication
 title: ''
 labels: project_publication
-assignees: kirillkoncha
+assignees: agricolamz
 
 ---
 
