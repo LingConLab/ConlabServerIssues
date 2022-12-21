@@ -3,8 +3,7 @@ name: User creation
 about: Application for user creation
 title: ''
 labels: add_user
-assignees: kirillkoncha
-
+assignees: agricolamz
 ---
 
 Your first and last name:
